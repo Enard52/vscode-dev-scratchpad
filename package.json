@@ -1,8 +1,8 @@
 {
   "name": "dev-scratchpad",
-  "displayName": "Dev Scratchpad",
-  "description": "Lightning-fast persistent scratchpad in VS Code. Never lose temporary code, curl requests, or notes again.",
-  "version": "1.0.0",
+  "displayName": "%extension.displayName%",
+  "description": "%extension.description%",
+  "version": "1.0.1",
   "publisher": "Enard52",
   "license": "MIT",
   "engines": {
@@ -17,7 +17,8 @@
     "notes",
     "developer",
     "productivity",
-    "snippet"
+    "snippet",
+    "markdown"
   ],
   "repository": {
     "type": "git",
@@ -31,12 +32,12 @@
     "commands": [
       {
         "command": "devScratchpad.open",
-        "title": "Dev Scratchpad: Open Scratchpad",
+        "title": "%command.open%",
         "category": "Scratchpad"
       },
       {
         "command": "devScratchpad.clear",
-        "title": "Dev Scratchpad: Clear Scratchpad",
+        "title": "%command.clear%",
         "category": "Scratchpad"
       }
     ],

@@ -1,0 +1,6 @@
+{
+  "extension.displayName": "Bloc de Notas para Desarrolladores (Dev Scratchpad)",
+  "extension.description": "Bloc de notas persistente ultrarrápido en VS Code. No vuelvas a perder código temporal, peticiones curl o notas.",
+  "command.open": "Dev Scratchpad: Abrir bloc de notas",
+  "command.clear": "Dev Scratchpad: Limpiar bloc de notas"
+}

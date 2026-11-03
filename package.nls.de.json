@@ -1,0 +1,6 @@
+{
+  "extension.displayName": "Entwickler-Notizblock (Dev Scratchpad)",
+  "extension.description": "Blitzschneller, persistenter Notizblock in VS Code. Verlieren Sie nie wieder temporären Code oder Notizen.",
+  "command.open": "Dev Scratchpad: Notizblock öffnen",
+  "command.clear": "Dev Scratchpad: Notizblock leeren"
+}

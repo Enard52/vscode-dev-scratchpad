@@ -1,0 +1,6 @@
+{
+  "extension.displayName": "开发者草稿本 (Dev Scratchpad)",
+  "extension.description": "VS Code 内极速持久化草稿本。再也不会丢失临时代码、curl 请求或临时笔记。",
+  "command.open": "Dev Scratchpad: 打开草稿本",
+  "command.clear": "Dev Scratchpad: 清空草稿本"
+}

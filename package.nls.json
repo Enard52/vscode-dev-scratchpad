@@ -1,0 +1,6 @@
+{
+  "extension.displayName": "Dev Scratchpad",
+  "extension.description": "Lightning-fast persistent scratchpad in VS Code. Never lose temporary code, curl requests, or notes again.",
+  "command.open": "Dev Scratchpad: Open Scratchpad",
+  "command.clear": "Dev Scratchpad: Clear Scratchpad"
+}

@@ -1,0 +1,6 @@
+{
+  "extension.displayName": "開発者用スクラッチパッド (Dev Scratchpad)",
+  "extension.description": "VS Code 内の超高速で永続的なメモ帳。一時的なコードや curl リクエストを二度と失いません。",
+  "command.open": "Dev Scratchpad: スクラッチパッドを開く",
+  "command.clear": "Dev Scratchpad: スクラッチパッドをクリア"
+}
